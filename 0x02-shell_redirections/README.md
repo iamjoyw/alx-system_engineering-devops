@@ -1,1 +1,1 @@
-Last lines of a file
+First 10 lines
