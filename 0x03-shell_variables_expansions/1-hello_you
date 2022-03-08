@@ -1,3 +1,2 @@
-echo 'hello $USER'
-[A[C[C[C[C[C[C[C[C[C[C[C[C#!/bin/bash
-echo 'hello $USER'
+#!/bin/bash
+echo "hello $USER"
